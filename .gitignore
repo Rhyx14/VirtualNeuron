@@ -1,0 +1,16 @@
+__pycache__
+.vscode
+dataset/*
+!/dataset/*.py
+!/dataset/DVS_dataload
+encode
+tmp
+y_tmp
+tb_runs
+/z_*
+/archive
+secretary
+.ipynb_checkpoints/
+
+*.json
+test*
